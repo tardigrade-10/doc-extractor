@@ -7,4 +7,4 @@ A small library of useful tools for
 3. video-to-frames
 4. frames-to-videos conversion
 
-NOTE: This repo is not maintained very carefully. 
+[NOT MAINTAINED] 
